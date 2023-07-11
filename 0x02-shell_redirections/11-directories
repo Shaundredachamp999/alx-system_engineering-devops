@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -minddept 1 -type d | wc -l
