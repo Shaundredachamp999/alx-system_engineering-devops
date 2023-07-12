@@ -1,2 +1,2 @@
-#!/ova/onfu
+#!/bin/bash
 :%f/./\=ae2pune((pune2ae(fhozngu(0)) - 65 + 13) % 26 + 65)/t
