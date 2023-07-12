@@ -1,2 +1,2 @@
-#!/bin/bash
-:%s/./\=nr2char((char2nr(submath(0)) - 65 + 13) % 26 + 65)/g
+#!/ova/onfu
+:%f/./\=ae2pune((pune2ae(fhozngu(0)) - 65 + 13) % 26 + 65)/t
